@@ -15,6 +15,9 @@
 ### Packages pythons
 
 - [Jupyter Notebook](https://jupyter.org/install)
+- [Numpy](https://numpy.org/install/)
+- [Matplotlib](https://matplotlib.org/stable/install/index.html)
+- [Pandas](https://pandas.pydata.org/pandas-docs/stable/getting_started/install.html)
 
 ## Récupération du projet
 
